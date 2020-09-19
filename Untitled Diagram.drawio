@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T18:57:37.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="kQT5f-1PejJqgGke9QW9" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-19T19:01:31.102Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="vkJ9IT25y_lr6VBVxD6l" version="13.7.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1188" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -312,14 +312,14 @@
         <mxCell id="051rDO9els9nR794Je7s-112" value="Reviewer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="380" y="170" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="051rDO9els9nR794Je7s-113" value="WRITTEN_BY" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;sketch=0;gradientColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="93.12" y="210" width="153.75" height="95" as="geometry" />
-        </mxCell>
         <mxCell id="051rDO9els9nR794Je7s-114" value="WRITTEN_BY" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;sketch=0;gradientColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="628.13" y="210" width="153.75" height="95" as="geometry" />
         </mxCell>
         <mxCell id="051rDO9els9nR794Je7s-117" value="PAPER" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;sketch=0;gradientColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="120" y="375" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="051rDO9els9nR794Je7s-118" value="WRITTEN_BY" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=0;glass=0;sketch=0;gradientColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="160" height="97.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
